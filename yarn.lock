@@ -2238,6 +2238,11 @@ pbkdf2@^3.0.3:
     safe-buffer "^5.0.1"
     sha.js "^2.4.8"
 
+phoenixjs@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/phoenixjs/-/phoenixjs-1.0.5.tgz#d45f4baaa3b0ea2cfbbc5af60851000a6303239f"
+  integrity sha1-1F9LqqOw6iz7vFr2CFEACmMDI58=
+
 picomatch@^2.0.4, picomatch@^2.2.1, picomatch@^2.2.3:
   version "2.3.0"
   resolved "https://registry.yarnpkg.com/picomatch/-/picomatch-2.3.0.tgz#f1f061de8f6a4bf022892e2d128234fb98302972"
